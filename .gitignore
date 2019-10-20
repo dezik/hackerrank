@@ -1,0 +1,8 @@
+.DS_Store
+.Spotlight-V100
+
+.idea/
+*.iml
+
+target/
+
